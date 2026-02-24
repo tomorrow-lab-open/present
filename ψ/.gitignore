@@ -1,0 +1,7 @@
+# Untracked pillars — local only, not pushed
+logs/
+learn/
+active/
+
+# Also ignore nested logs
+memory/logs/
